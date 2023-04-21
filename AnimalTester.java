@@ -2,7 +2,7 @@
 /**
  * Write a description of class AnimalTester here.
  *
- * @author (your name)
+ * @author (Seb)
  * @version (a version number or a date)
  */
 import java.util.ArrayList;
