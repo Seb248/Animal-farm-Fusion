@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Farmer
+comment1.params=
+comment1.target=Farmer()
+comment2.params=
+comment2.target=void\ getAge()
+comment3.params=
+comment3.target=int\ gitAge()
+comment4.params=
+comment4.target=void\ getStrength()
+comment5.params=
+comment5.target=int\ gitStrength()
+comment6.params=
+comment6.target=void\ getStamina()
+comment7.params=
+comment7.target=int\ gitStamina()
+numComments=8

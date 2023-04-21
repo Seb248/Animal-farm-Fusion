@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Read
+comment0.text=\r\n\ Read\ class\ will\ read\ elements\ form\ a\ shared\ list\r\n
+comment1.params=list
+comment1.target=Read(java.util.List)
+comment2.params=
+comment2.target=void\ readItem()
+comment3.params=
+comment3.target=void\ leerItem()
+comment4.params=
+comment4.target=void\ g\u00E9neroItem()
+comment5.params=
+comment5.target=void\ tipoItem()
+comment6.params=
+comment6.target=void\ typeItem()
+numComments=7

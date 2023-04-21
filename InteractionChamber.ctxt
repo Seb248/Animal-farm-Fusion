@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=InteractionChamber
+comment1.params=list
+comment1.target=InteractionChamber(java.util.List)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InteractionChamber\r\n
+comment2.params=
+comment2.target=java.lang.String\ hello()
+comment3.params=animalParaComer
+comment3.target=int\ gComer(int)
+comment4.params=animalParaComer
+comment4.target=int\ ejercicio(int)
+comment5.params=numAnimales
+comment5.target=java.util.ArrayList\ emparejarse(int)
+comment6.params=numAnimales
+comment6.target=java.util.ArrayList\ m\u00E1sFuerte(int)
+comment7.params=numAnimales
+comment7.target=java.util.ArrayList\ hambrientos(int)
+comment8.params=animalX\ animalK\ numAnimales\ animalZ\ animalY
+comment8.target=int\ criar(int,\ int,\ int,\ int,\ int)
+comment9.params=
+comment9.target=int\ devolverB()
+numComments=10

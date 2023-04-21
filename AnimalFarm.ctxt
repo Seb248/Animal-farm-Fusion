@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AnimalFarm
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ seeCmds()
+comment3.params=
+comment3.target=void\ settings()
+comment4.params=
+comment4.target=void\ work()
+comment5.params=
+comment5.target=void\ visitBarnyard()
+comment6.params=
+comment6.target=void\ visitTown()
+numComments=7

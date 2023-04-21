@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Write
+comment0.text=\r\n\ This\ class\ will\ add\ elements\ to\ \r\n\ a\ shared\ list\ that\ is\ created\ with\ an\ Arraylist.\r\n
+comment1.params=list
+comment1.target=Write(java.util.List)
+comment2.params=item
+comment2.target=void\ addItem(Animal)
+numComments=3
